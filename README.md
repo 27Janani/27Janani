@@ -25,4 +25,7 @@ Pursuing Computer Science at SSCE, Bangalore<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=27Janani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐍 A snake eating my contributions
+
+![GitHub Snake](https://github.com/27janani/snk/raw/output/github-snake.svg)
+
